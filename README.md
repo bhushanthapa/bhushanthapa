@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bhushan</h1>
-- 🌱 I’m currently learning **web devlopement bootcamp**
+- 🌱 I’m currently learning **web devlopement **
 
 - 📫 How to reach me **bhushanthapa60@gmail.com**
 <p align="left">
