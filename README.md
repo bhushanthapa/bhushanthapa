@@ -5,7 +5,7 @@
 - 📫 How to reach me **bhushanthapa60@gmail.com**
 <p align="left">
 <a href="https://twitter.com/bhushan2932k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhushan2932k" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:15405790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15405790" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/user:15405790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15405790" height="30" width="40" /></a>
 <a href="https://instagram.com/bhushan.t._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhushan.t._" height="30" width="40" /></a>
 </p>
 
