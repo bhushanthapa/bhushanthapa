@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Bhushan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanthapa&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanthapa" /> </p>
-<img   width="350"align="left" src ="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"><br>
+<img  width="350"align="left" src ="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"><br>
 - currently focusing on **web development , ui-ux**
 
 - 📫 How to reach me **bhushanthapa60@gmail.com**
