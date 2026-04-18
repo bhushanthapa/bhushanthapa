@@ -1,13 +1,47 @@
-<h1 align="center">Hi👋, I'm Bhushan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanthapa&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanthapa" /> </p>
+## Hi there! 👋
 
-- currently focusing on **frontend development,ui-ux**
+I'm **Bhushan** (GitHub: [@bhushanthapa](https://github.com/bhushanthapa)) - a frontend-focused developer . I build clean, responsive UIs and enjoy turning design into pixel-perfect web experiences. 
 
-- 📫 How to reach me **bhushanthapa60@gmail.com**
+Tagline: "Crafting responsive interfaces with CSS, HTML & JavaScript - one commit at a time." ✨
 
+## About Me
 
-<p align="left">
-</p>
+- Name: **Bhushan**
+- Location: **Bhuj, Gujarat** 🇮🇳
+- Instagram: [bhushan.t_](https://instagram.com/bhushan.t_)
+- Twitter: [@Bhushan2932k](https://twitter.com/Bhushan2932k)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+I'm passionate about front-end development, responsive design and learning practical tools that improve developer workflows. My repos focus on CSS, HTML and JavaScript tasks and small projects including a personal portfolio. I'm open to collaboration and enjoy contributing to hands-on web UI work. 🚀
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,jquery,git,github,bootstrap,figma&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+1. [Furniro-Frontend-Task](https://github.com/bhushanthapa/Furniro-Frontend-Task) 
+   - Description: Frontend implementation for a Furniro challenge / task (modern responsive UI work).
+   - Stars: 0 ⭐
+   - Primary language: CSS
+   - Forks: 0 | Watchers: 0 | Issues: 0
+   - Notes: Active development — recent pushes showcase iterative frontend improvements. 🔧
+
+2. [Responsive_beta](https://github.com/bhushanthapa/Responsive_beta)
+   - Description: Learning project focused on responsive design techniques.
+   - Stars: 0 ⭐
+   - Primary language: HTML
+   - Forks: 0 | Watchers: 0 | Issues: 0
+   - Topics: css, html, responsive-design
+
+## GitHub Stats 📊
+
+- Public repositories: **11**
+- Followers: **5**
+- Following: **8**
+
+Badges & stats:
+
+- ![GitHub Followers](https://img.shields.io/github/followers/bhushanthapa?label=Followers&style=for-the-badge)
+- ![GitHub Repos](https://img.shields.io/badge/public%20repos-11-blue?style=for-the-badge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanthapa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
