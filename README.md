@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Bhushan** (GitHub: [@bhushanthapa](https://github.com/bhushanthapa)) - a frontend-focused developer . I build clean, responsive UIs and enjoy turning design into pixel-perfect web experiences. 
+I'm **Bhushan** - a frontend-focused developer . I build clean, responsive UIs and enjoy turning design into pixel-perfect web experiences. 
 
 Tagline: "Crafting responsive interfaces with CSS, HTML & JavaScript - one commit at a time." ✨
 
